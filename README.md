@@ -17,5 +17,5 @@ or Run by docker compose
 
 test
 
-capturing triggers...
+capturing triggers...;)
 
